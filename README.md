@@ -14,9 +14,9 @@ My name is **Gustavo** and I'm currently a student of Systems Analysis and Devel
 ## What I'm Currently Learning
 
 
-- [x] **~~JavaScript~~** - Completed
+- [x] **~~JavaScript~~** - Done
 - [ ] **HTML5 and CSS3** - In Progress
-- [ ] **Python** - In Progress
+- [x] **~~Python~~** - Done
 
 ## Contact Me
 
