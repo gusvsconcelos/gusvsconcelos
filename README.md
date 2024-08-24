@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gustavo+Vasconcelos...;Tenho+23+Anos...;Sou+De+Tianguá,+CE,+Brasil...;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
-<p>It's better to be a pirate than to join the Navy.</p>
+<p align="center">It's better to be a pirate than to join the Navy.</p>
 
 <br/>
 
