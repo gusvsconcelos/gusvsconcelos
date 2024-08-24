@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gustavo+Vasconcelos...;Tenho+23+Anos...;Sou+De+Tianguá,+CE,+Brasil...;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
-<p>Comecei minha carreira como desenvolvedor em 2023, acumulando experiência em diversas linguagens de programação. Minha trajetória profissional é marcada pela minha curiosidade, criatividade, dedicação e aprimoramento constante, refletindo minha paixão por tecnologia e inovação.</p>
-<p>Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://estacio.br/a-estacio/sobre-a-estacio">Universidade Estácio de Sá</a>.</p>
+<p>It's better to be a pirate than to join the Navy.</p>
 
 <br/>
 
