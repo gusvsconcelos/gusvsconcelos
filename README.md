@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gustavo+Vasconcelos...;Tenho+24+Anos...;Sou+De+Tianguá,+CE,+Brasil...;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gustavo+Vasconcelos...;Tenho+24+Anos...;Sou+De+Tianguá/CE,+Brasil...;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
 <p align="center">It's better to be a pirate than join the navy.</p>
 
